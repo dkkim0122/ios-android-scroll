@@ -23,6 +23,14 @@ body {
   height: 1200px;
 }
 
+#calculate-section {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 30%;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
 .box {
   position: fixed;
   background-color: black;
@@ -31,14 +39,6 @@ body {
 
 .top {
   top: 0;
-}
-
-.left {
-  left: 0;
-}
-
-.right {
-  right: 0;
 }
 
 .bottom {
